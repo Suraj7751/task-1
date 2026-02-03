@@ -78,8 +78,10 @@ local Strapi setup, admin panel access, and content type creation.
 7. Pushed the setup to GitHub and raised a Pull Request (not merged).
 
 ### Loom Video
-A Loom video was recorded demonstrating:
+https://www.loom.com/share/0354bb429b4a4c77a66a4a121f8686c7
 - Running the Strapi application locally  
 - Admin panel access  
 - Sample content type creation  
 - GitHub repository and Pull Request
+
+> Note: This PR is created for review purposes only and is not merged into the main branch.
